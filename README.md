@@ -33,10 +33,10 @@ The following steps outline the methodology used for fine-tuning and evaluating 
 
 ## Results
 - **Performance Metrics:**
-  - Accuracy: 93%
-  - Precision: 92%
-  - Recall: 94%
-  - F1 Score: 93%
+  - Accuracy: 58.25%
+  - Precision: 50.26%
+  - Recall: 92.25%
+  - F1 Score: 65.07%
 
 - **Visualizations:**
   - Confusion matrix showing the model’s ability to distinguish sentiment classes.
